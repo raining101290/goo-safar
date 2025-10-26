@@ -65,7 +65,7 @@ if(document.getElementsByClassName('tiny-two-item').length > 0) {
             },
 
             320: {
-                items: 1
+                items: 2
             },
         },
     });
@@ -90,11 +90,11 @@ if(document.getElementsByClassName('tiny-three-item').length > 0) {
             },
 
             767: {
-                items: 2
+                items: 3
             },
 
             320: {
-                items: 1
+                items: 2
             },
         },
     });
@@ -119,11 +119,11 @@ if(document.getElementsByClassName('tiny-four-item').length > 0) {
             },
 
             767: {
-                items: 2
+                items: 3
             },
 
             320: {
-                items: 1
+                items: 2
             },
         },
     });
@@ -179,11 +179,11 @@ if(document.getElementsByClassName('tiny-six-item').length > 0) {
             },
 
             767: {
-                items: 3
+                items: 4
             },
 
             320: {
-                items: 1
+                items: 2
             },
         },
     });

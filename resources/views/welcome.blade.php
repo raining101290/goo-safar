@@ -312,7 +312,7 @@
                             <div class="popular-tour rounded-md position-relative overflow-hidden mx-2">
                                 <img src="assets/images/travel/sri-lanka.jpg" class="img-fluid" alt="">
                                 <div class="content">
-                                    <a href="javascript:void(0)" class="title text-white h4 title-dark text-shadow">Sri Lanja</a>
+                                    <a href="javascript:void(0)" class="title text-white h4 title-dark text-shadow">Sri Lanka</a>
                                 </div>
                             </div>
                         </div>

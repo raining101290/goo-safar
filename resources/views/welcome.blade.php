@@ -11,10 +11,11 @@
             <div class="row align-items-center">
                 <div class="col-lg-7 col-md-6">
                     <div class="title-heading mt-4">
-                        <h1 class="display-4 fw-bold text-white title-dark text-shadow mb-3 text-shadow">
+                        <h1 class="display-4 fw-bold text-white title-dark text-shadow mb-3">
                         Welcome to <span class="text-green-300">Goo Safar</span> 
                         </h1>
                         <p class="para-desc text-white text-shadow">Discover amazing destinations with Goo Safar. Enjoy cheap flights and create memories that last forever.</p>
+                        <h3 class="display-6 fw-bold text-shadow title-dark text-green-300 mt-4"><i data-feather="phone" class="fea icon-lg"> </i> +880-1670 22 56 11</h3>
                     </div>
                 </div>
             </div>
@@ -387,15 +388,13 @@
                             <h2 class="accordion-header" id="headingOne">
                                 <button class="accordion-button border-0 bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
                                     aria-expanded="true" aria-controls="collapseOne">
-                                    How does it work ?
+                                    How can I book my Hajj or Umrah package with Goo Safar?
                                 </button>
                             </h2>
                             <div id="collapseOne" class="accordion-collapse border-0 collapse show" aria-labelledby="headingOne"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body text-muted">
-                                    At Goo Safar, we make your journey easy from start to finish.
-                                    You can visit our office or contact us online to book your Hajj or Umrah package, flight ticket, money transfer, or cargo service. <br/>
-                                    Our team will guide you step-by-step — from documentation and booking to confirmation and travel support — ensuring a smooth, stress-free experience.
+                                    Booking your pilgrimage is simple. Just visit our office or contact us online, and our dedicated team will assist you with visa processing, flight tickets, accommodation, and ground transport in Saudi Arabia. We handle every detail so you can focus on your spiritual journey with peace of mind.
                                 </div>
                             </div>
                         </div>
@@ -404,15 +403,13 @@
                             <h2 class="accordion-header" id="headingTwo">
                                 <button class="accordion-button border-0 bg-light collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                     aria-expanded="false" aria-controls="collapseTwo">
-                                    How much does it cost?
+                                    Can I book international and domestic flight tickets through Goo Safar?
                                 </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse border-0 collapse" aria-labelledby="headingTwo"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body text-muted">
-                                    Our prices are always competitive and transparent.
-                                    Costs depend on your destination, travel date, and package type. Whether you’re booking a budget flight, premium Umrah package, or sending cargo, we provide the best rates with no hidden fees.<br/>
-                                    For accurate pricing, contact our support team — we’ll find the deal that fits your budget.
+                                    Yes. We offer affordable and reliable flight booking for both domestic and international destinations. Our team finds the best available fares and provides instant confirmation — no hidden charges, no delays.
                                 </div>
                             </div>
                         </div>
@@ -421,15 +418,13 @@
                             <h2 class="accordion-header" id="headingThree">
                                 <button class="accordion-button border-0 bg-light collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    How I can travel Europe ?
+                                    Is my money transfer safe with Goo Safar?
                                 </button>
                             </h2>
                             <div id="collapseThree" class="accordion-collapse border-0 collapse" aria-labelledby="headingThree"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body text-muted">
-                                    Travelling to Europe is simple with Goo Safar.
-                                    We help you find the right flights, affordable routes, and visa guidance for your preferred destination — whether it’s the UK, France, Italy, or Germany.<br/>
-                                    Our travel experts assist with ticketing, hotel bookings, and itinerary planning, ensuring your European journey is safe, smooth, and enjoyable.
+                                    Absolutely. We work with trusted and licensed international remittance partners to ensure your money is transferred safely, quickly, and transparently. You’ll receive instant confirmation and can always contact our team for transfer updates.
                                 </div>
                             </div>
                         </div>
@@ -438,22 +433,44 @@
                             <h2 class="accordion-header" id="headingFour">
                                 <button class="accordion-button border-0 bg-light collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                    What documents are required?
+                                    Do you provide cargo services internationally?
                                 </button>
                             </h2>
                             <div id="collapseFour" class="accordion-collapse border-0 collapse" aria-labelledby="headingFour"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body text-muted">
-                                    The required documents depend on your service:
-
-                                    <ul class="list-unstyled text-muted mt-4 mb-4">
-                                        <li class="mb-1"><span class="text-primary h5 me-2"><i class="uil uil-check-circle align-middle"></i></span><b>Hajj & Umrah</b> – Valid passport, visa application, vaccination certificate, and passport-size photos.</li>
-                                        <li class="mb-1"><span class="text-primary h5 me-2"><i class="uil uil-check-circle align-middle"></i></span><b>Ticketing</b> – Valid passport and ID (visa may be required for international travel).</li>
-                                        <li class="mb-1"><span class="text-primary h5 me-2"><i class="uil uil-check-circle align-middle"></i></span><b>Money Transfer</b> – Valid ID and recipient details.</li>
-                                        <li class="mb-1"><span class="text-primary h5 me-2"><i class="uil uil-check-circle align-middle"></i></span><b>Cargo Service</b> – Sender and receiver details, invoice (if applicable), and item declaration.</li>
-                                    </ul>
-                                    <p class="text-muted">Our team will assist you in preparing everything — so you never have to worry about missing paperwork.</p>
+                                    Yes, we offer fast and secure cargo services to major destinations worldwide. Whether it’s personal parcels or business shipments, we ensure your goods are delivered on time and in perfect condition — at competitive rates.
                                 </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item rounded shadow mt-2">
+                            <h2 class="accordion-header" id="headingFive">
+                                <button class="accordion-button border-0 bg-light collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    What documents do I need for Hajj or Umrah?
+                                </button>
+                            </h2>
+                            <div id="collapseFive" class="accordion-collapse border-0 collapse" aria-labelledby="headingFive"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body text-muted">
+                                    You’ll need a valid passport, passport-size photos, national ID, and vaccination certificate. Our team will assist you step by step in completing all formalities required for visa and travel approval.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item rounded shadow mt-2">
+                            <h2 class="accordion-header" id="headingSix">
+                                <button class="accordion-button border-0 bg-light collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                    Why should I choose Goo Safar?
+                                </button>
+                            </h2>
+                            <div id="collapseSix" class="accordion-collapse border-0 collapse" aria-labelledby="headingSix"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body text-muted">
+                                    <p>Because we value trust, transparency, and care. With years of experience in travel, religious tours, money transfer, and cargo handling, we provide complete support — before, during, and after your journey.</p>
+                                    <p class="text-success mt-2">Goo Safar — Your Journey, Our Responsibility.</p>
+                                </div>
+                                
                             </div>
                         </div>
                     </div>

@@ -191,7 +191,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-12 mt-4 pt-2">
-                    <div class="tiny-four-item">
+                    <div class="tiny-six-item">
                         <div class="tiny-slide">
                             <div class="popular-tour rounded-md position-relative overflow-hidden mx-2">
                                 <img src="assets/images/travel/usa.jpg" class="img-fluid" alt="">
@@ -349,8 +349,9 @@
                 <div class="col-lg-5 col-md-6">
                     <div class="card blog blog-primary rounded border-0 shadow overflow-hidden">
                         <div class="position-relative">
-                            <img src="/assets/images/travel/2.jpg" class="card-img-top" alt="...">
+                            <img id="randomImage" src="/assets/images/random/1.jpg" class="card-img-top" alt="Travel Image">
                             <div class="overlay rounded-top"></div>
+                            <span class="random-number"></span>
                         </div>
                     </div>
                 </div>
@@ -481,6 +482,13 @@
 
             // Reload video element
             document.getElementById('bg-video').load();
+
+
+            const randomNum = Math.floor(Math.random() * 6) + 1;
+            // Select the image element
+            const imgElement = document.getElementById('randomImage');
+            // Update the image source dynamically
+            imgElement.src = `/assets/images/random/${randomNum}.jpg`;
         });
     </script>
 @endsection

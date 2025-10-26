@@ -7,7 +7,7 @@
  *     04.  Maintenance js       * (For Maintenance page)
  *     05.  Data Counter         *
  *     06.  Datepicker js        *
- *     07.  Gallery filter js    * (For Portfolio pages)
+ *     07.  Gallery filter js     * (For Portfolio pages)
  *     08.  Tobii lightbox       * (For Portfolio pages)
  *     09.  CK Editor            * (For Compose mail)
  *     10.  WOW JS Animation     * 
@@ -160,34 +160,30 @@ if(document.getElementsByClassName('roadmaps').length > 0) {
     });
 };
 
-if(document.getElementsByClassName('tiny-six-item').length > 0) {
-    var slider = tns({
-        container: '.tiny-six-item',
-        controls: false,
-        mouseDrag: true,
-        loop: true,
-        rewind: true,
-        autoplay: true,
-        autoplayButtonOutput: false,
-        autoplayTimeout: 3000,
-        navPosition: "bottom",
-        speed: 400,
-        gutter: 12,
-        responsive: {
-            992: {
-                items: 6
-            },
+var carousels = document.querySelectorAll('.tiny-six-item');
 
-            767: {
-                items: 4
+if (carousels.length > 0) {
+    carousels.forEach(function(carousel) {
+        tns({
+            container: carousel,
+            controls: false,
+            mouseDrag: true,
+            loop: true,
+            rewind: true,
+            autoplay: true,
+            autoplayButtonOutput: false,
+            autoplayTimeout: 3000,
+            navPosition: "bottom",
+            speed: 400,
+            gutter: 12,
+            responsive: {
+                992: { items: 6 },
+                767: { items: 4 },
+                320: { items: 2 },
             },
-
-            320: {
-                items: 2
-            },
-        },
+        });
     });
-};
+}
 
 if(document.getElementsByClassName('tiny-ten-item').length > 0) {
     var slider = tns({
